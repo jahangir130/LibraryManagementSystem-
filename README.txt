@@ -1,5 +1,18 @@
 Library Management System - Packaged Java Project
 
+LibraryManagementSystem/
+├── library/
+│   ├── Library.java
+│   ├── Book.java
+│   ├── LibraryItem.java
+│   ├── Loan.java
+│   ├── Magazine.java
+│   └── Member.java
+├── app/
+│   └── Jahangir__20255103295.java
+└── README.txt
+
+
 Packages:
 - library: LibraryItem, Book, Magazine, Loan, Member, Library
 - app: Jahangir__20255103295 (main class)
